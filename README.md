@@ -27,8 +27,9 @@ wow classic cataclysm 2025
   + 대도시 전문요리사
 + 오징어 구이(260~ 280)
   + 대도시 전문요리사 - 겨울오징어
-+ 연어구이/바닷가재스튜
-   + 페랄라스, 모자케야영지 , 신드라톨그라스(직업용품상인)
++ 밤비늘통돔/해비늘연어(280~)
+  + 연어구이/바닷가재스튜
+    + 페랄라스, 모자케야영지 , 신드라톨그라스(직업용품상인)
   
 
 # 고기별 낚시터
@@ -55,7 +56,11 @@ wow classic cataclysm 2025
   + 폐더문폐허-서쪽-살도르섬방향-섬돌위
   + 페더문폐어-서북쪽-대각선-섬돌위
   + <img width="174" alt="image" src="https://github.com/user-attachments/assets/824e5c93-0323-47ff-8335-08faa45bfbd7" />
-+ 
++ 밤비늘통돔 / 유리비늘연어 / 해비늘연어
+  + 폐랄라스-아타와야영지-꿈나무-비치비늘호수
+  + <img width="182" alt="image" src="https://github.com/user-attachments/assets/ce8cd4ea-1f39-4544-b968-319962183ae4" />
+  
+
 
    
  

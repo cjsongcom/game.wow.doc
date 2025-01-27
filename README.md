@@ -56,7 +56,7 @@ wow classic cataclysm 2025
   + 폐더문폐허-서쪽-살도르섬방향-섬돌위
   + 페더문폐어-서북쪽-대각선-섬돌위
   + <img width="174" alt="image" src="https://github.com/user-attachments/assets/824e5c93-0323-47ff-8335-08faa45bfbd7" />
-+ 밤비늘통돔 / 유리비늘연어 / 해비늘연어
++ 밤비늘통돔 / 유리비늘연어 / 해비늘연어 / 번개뱀장어
   + 폐랄라스-아타와야영지-꿈나무-비치비늘호수
   + <img width="182" alt="image" src="https://github.com/user-attachments/assets/ce8cd4ea-1f39-4544-b968-319962183ae4" />
   

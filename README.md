@@ -78,12 +78,16 @@ wow classic cataclysm 2025
 + 밤비늘통돔 / 유리비늘연어 / 해비늘연어 / 번개뱀장어
   + 폐랄라스-아타와야영지-꿈나무-비치비늘호수
   + <img width="182" alt="image" src="https://github.com/user-attachments/assets/ce8cd4ea-1f39-4544-b968-319962183ae4" />
-  
+
 
 # 고기별 낚시터 - 아웃랜드
 + 미늘아가미송어 (320~)
   + 장가르 습지대, 세나리온야영지
-
++ 황금화살고기(350~)
+  + 스케티스, 테로크의 안식처
+    + <img width="148" alt="image" src="https://github.com/user-attachments/assets/ed0ad97f-ffd1-475c-bc7c-baedbab55975" />   
++ 매운가재
+  + 
 
    
  

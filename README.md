@@ -86,7 +86,8 @@ wow classic cataclysm 2025
 + 황금화살고기(350~)
   + 스케티스, 테로크의 안식처
     + <img width="148" alt="image" src="https://github.com/user-attachments/assets/ed0ad97f-ffd1-475c-bc7c-baedbab55975" />   
-+ 매운가재
++ 사나운 가재
+  + 사나운 가재는 '고원의 물고기 떼' 에서, 스케티스
   + 
 
    
